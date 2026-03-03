@@ -3,4 +3,7 @@
     width: 200px;
     box-sizing: border-box;
     background-color: brown;
+    h2{
+        color:blue
+    }
 }
